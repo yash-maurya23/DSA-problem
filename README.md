@@ -81,4 +81,16 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/yash-maurya23/neetcode-submissions/tree/master/0020-valid-parentheses) |
+## Array
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/yash-maurya23/neetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
+## Hash Table
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/yash-maurya23/neetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/yash-maurya23/neetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
