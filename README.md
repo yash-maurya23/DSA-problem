@@ -93,4 +93,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/yash-maurya23/neetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
+## Database
+|  |
+| ------- |
+| [0177-nth-highest-salary](https://github.com/yash-maurya23/neetcode-submissions/tree/master/0177-nth-highest-salary) |
 <!---LeetCode Topics End-->
